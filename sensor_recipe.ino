@@ -1,6 +1,6 @@
 #include <SPI.h>
 #include <Wire.h>
-//#include <Adafruit_GFX.h>
+#include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
 
 // If using software SPI (the default case):
